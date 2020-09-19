@@ -1,2 +1,1 @@
-# CSE299_sec1
- Putting all the codes of cse 299 here
+This App is like online selling and shopping apps. Now a days there are many online shopping apps, like Amazon, Aliexpress, Daraz, Evaly, shop up etc. They basically sell the branded products ,local market products and many necessary products but  in this app people only buy and sell home made products, foods etc. By this app people can earn money by sell their interests and hand made products. 
